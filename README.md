@@ -15,3 +15,14 @@ This project allows users to upload a CSV file and instantly get a detailed data
 - **YData Profiling**: Generates an automatic data profiling report from a pandas DataFrame.
 - **Base64 & BytesIO**: Handles file downloads (HTML report).
 
+## Future Improvements
+- Support for additional file types (e.g., Excel).
+- More interactive visualizations within Streamlit.
+- Handling larger datasets more efficiently.
+- Deployment to cloud platforms like Heroku or Streamlit Cloud.
+
+## License
+This project is licensed under the MIT License.
+
+## Contributing
+Feel free to open issues or submit pull requests for any improvements or bug fixes.
